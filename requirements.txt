@@ -1,0 +1,7 @@
+discord.py
+SpeechRecognition
+vosk
+pyttsx3
+google-api-core
+google-auth
+google-cloud-aiplatform
